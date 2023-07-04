@@ -5,4 +5,7 @@ public class Estudante extends Pessoa{
     String curso;
     String periodo;
 
+    public Estudante(String nome, int idade, String cpf, String sexo) {
+        super(nome, idade, cpf, sexo);
+    }
 }
