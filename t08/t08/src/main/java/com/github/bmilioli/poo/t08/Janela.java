@@ -1,5 +1,8 @@
 package com.github.bmilioli.poo.t08;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Janela {
     private List<ElementoInteracao> elementos;
 
