@@ -9,5 +9,5 @@ public class Pessoa {
 
     //Possui cadeiras
     List<Cadeira> cadeiras;
-    
+
 }

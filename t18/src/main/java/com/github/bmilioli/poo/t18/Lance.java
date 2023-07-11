@@ -16,9 +16,8 @@ public class Lance {
 
     //imprimir lance
     public void imprimir() {
-        System.out.println("Jogador: " + this.jogador.nome);
-        System.out.println(this.peca.nome + this.peca.posicaoX + this.peca.posicaoY);
-        System.out.println("\n");
+        System.out.println(this.jogador.nome + ": " + this.peca.nome + this.peca.posicaoX + this.peca.posicaoY);
+
     }
 
 
