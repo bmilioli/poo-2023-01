@@ -8,3 +8,4 @@ for /r "%cd%" %%f in (*.java) do (
 )
 
 echo Total lines of code in all .java files: %totalLines%
+
